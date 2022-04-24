@@ -1,0 +1,10 @@
+.cards{
+    flex-direction: row;
+    display: flex;
+    width: 880px;
+    justify-content: space-between;
+}
+
+.container-fluid:d-flex {
+    justify-content: flex-end;
+}
