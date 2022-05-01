@@ -1,0 +1,113 @@
+.navbar-left{
+    padding-left: 9%;
+
+}
+
+.nav-right{
+    padding-right: 20px;
+    height: 15px;
+    font-size: 125%;
+    color: white;
+    filter: brightness(0.5);
+    
+
+}
+
+span:hover {
+    filter: brightness(1);
+}
+
+.imagenesBA{
+    filter: brightness(0.5);
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.texto {
+    padding-top: 400px;
+    color: white;
+    text-align: right;
+    padding-right: 175px;
+    margin-top: 10px;
+    font-weight: 100px;
+    padding-left: 950px;
+
+}
+
+.main{
+    padding-top: 20px;
+}
+
+.main h6{
+    text-align: center; 
+    font-weight: lighter;
+}
+
+.main h1{
+    text-align: center
+}
+
+.cards{
+    flex-direction: row;
+    display: flex;
+    margin: auto;
+    width: 880px;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+#honolulu{
+
+    size: 250%;
+    width: 100%;
+}
+
+.ConvertirEnOrador{
+
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 25px;
+
+}
+
+#textbox{
+
+    font-size: 20px;
+    height: 100px;
+
+}
+
+#EnviarBotton{
+    background-color: greenyellow; 
+    width: 100%; 
+    border-color: white;
+}
+
+
+.footerNav{
+    text-align: center;
+    display: flex;
+    color:white;
+    flex-direction: row;
+    padding-left: 300px;
+    padding-right: 300px;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    margin-bottom: 0%;
+}
+
+
+.codoAcodo{
+
+    width: 28%;
+    height: 28%;
+    padding: auto;
+}
